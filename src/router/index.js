@@ -9,7 +9,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: 'Evain',
+			title: '周海卫 | Evain',
 		},
 	},
 	{
@@ -17,7 +17,7 @@ const routes = [
 		name: 'About',
 		component: () => import('../views/About.vue'),
 		meta: {
-			title: 'Evain - About',
+			title: '关于 | 周海卫',
 		},
 	},
 ];

@@ -2,8 +2,8 @@
 export default {
 	data: () => {
 		return {
-			title: 'Building on the web',
-			description: 'Always learning, always making.',
+			title: '创造即是理解',
+			description: '写代码、学东西、慢慢来。',
 		};
 	},
 };

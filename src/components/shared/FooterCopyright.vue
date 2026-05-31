@@ -3,7 +3,7 @@ export default {
 	data: () => {
 		return {
 			copyrightDate: new Date().getFullYear(),
-			author: 'Evain',
+			author: '周海卫',
 		};
 	},
 };

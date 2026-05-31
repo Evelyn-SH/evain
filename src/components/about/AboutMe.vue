@@ -5,11 +5,15 @@ export default {
 			bios: [
 				{
 					id: 1,
-					bio: 'A full-stack developer passionate about building clean, useful software. I enjoy working across the entire stack — from backend APIs and database design to frontend UI and developer experience.',
+					bio: '我是周海卫，2001年6月4日生，一个喜欢安静写代码的全栈开发者。INFP 型人格让我对细节有天然的敏感，也让我始终追求做出有温度的产品。',
 				},
 				{
 					id: 2,
-					bio: 'This site is my personal corner of the web — a place to share notes, projects, and things I learn along the way.',
+					bio: 'I enjoy working across the entire stack — from backend APIs and database design to frontend UI and developer experience. Clean architecture and thoughtful user experiences are what I care about most.',
+				},
+				{
+					id: 3,
+					bio: 'This site is my personal corner of the web — a place to share projects, notes, and things I learn along the way.',
 				},
 			],
 		};
