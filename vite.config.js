@@ -13,4 +13,7 @@ export default defineConfig({
     host: true,
     port: 80,
   },
+  preview: {
+    allowedHosts: ['yyqianxi.com', 'www.yyqianxi.com'],
+  },
 })
