@@ -23,7 +23,7 @@ export default {
 </script>
 
 <template>
-	<div :class="appTheme" class="pt-0.5">
+	<div :class="appTheme" class="min-h-screen bg-[#141414] pt-0.5 text-white">
 		<!-- App header -->
 		<AppHeader />
 

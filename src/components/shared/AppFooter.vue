@@ -7,9 +7,9 @@ export default {
 </script>
 
 <template>
-	<footer class="container mx-auto">
+	<footer class="px-4 sm:px-6 lg:px-8">
 		<div
-			class="pt-20 sm:pt-30 pb-8 mt-20 border-t-2 border-primary-light dark:border-secondary-dark"
+			class="pt-12 pb-8 mt-12 border-t border-white/10"
 		>
 			<FooterCopyright />
 		</div>
