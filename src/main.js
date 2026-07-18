@@ -2,12 +2,5 @@ import { createApp } from 'vue';
 import App from './App.vue';
 import router from './router';
 import './assets/css/app.css';
-import BackToTop from 'vue-backtotop';
-import feather from 'feather-icons';
 
-feather.replace();
-
-createApp(App)
-	.use(router)
-	.use(BackToTop)
-	.mount('#app');
+createApp(App).use(router).mount('#app');

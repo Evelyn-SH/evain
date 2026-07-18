@@ -9,7 +9,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: '易烊千玺资料库与粉丝共建地',
+			title: '鼠圈生存指南 · The Rat Race',
 		},
 	},
 	{
